@@ -1,0 +1,39 @@
+[submodule "luci-app-wechatpush"]
+	path = luci-app-wechatpush
+	url = https://github.com/tty228/luci-app-wechatpush.git
+[submodule "luci-theme-argon"]
+	path = luci-theme-argon
+	url = https://github.com/jerrykuku/luci-theme-argon.git
+[submodule "luci-app-argon-config"]
+	path = luci-app-argon-config
+	url = https://github.com/jerrykuku/luci-app-argon-config.git
+[submodule "luci-app-zerotier"]
+	path = luci-app-zerotier
+	url = https://github.com/rufengsuixing/luci-app-zerotier.git
+[submodule "openwrt-passwall"]
+	path = openwrt-passwall
+	url = https://github.com/xiaorouji/openwrt-passwall.git
+[submodule "openwrt-passwall-packages"]
+	path = openwrt-passwall-packages
+	url = https://github.com/xiaorouji/openwrt-passwall-packages.git
+[submodule "openwrt-passwall2"]
+	path = openwrt-passwall2
+	url = https://github.com/xiaorouji/openwrt-passwall2.git
+[submodule "luci-app-smartdns"]
+	path = luci-app-smartdns
+	url = https://github.com/pymumu/luci-app-smartdns.git
+[submodule "luci-app-mosdns"]
+	path = luci-app-mosdns
+	url = https://github.com/sbwml/luci-app-mosdns.git
+[submodule "luci-app-diskman"]
+	path = luci-app-diskman
+	url = https://github.com/lisaac/luci-app-diskman.git
+[submodule "luci-app-parentcontrol"]
+	path = luci-app-parentcontrol
+	url = https://github.com/sirpdboy/luci-app-parentcontrol.git
+[submodule "netspeedtest"]
+	path = netspeedtest
+	url = https://github.com/sirpdboy/netspeedtest.git
+[submodule "luci-app-partexp"]
+	path = luci-app-partexp
+	url = https://github.com/sirpdboy/luci-app-partexp.git
