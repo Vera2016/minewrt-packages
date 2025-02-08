@@ -37,6 +37,3 @@
 [submodule "luci-app-partexp"]
 	path = luci-app-partexp
 	url = https://github.com/sirpdboy/luci-app-partexp.git
-[submodule "wrtbwmon"]
-	path = wrtbwmon
-	url = https://github.com/pyrovski/wrtbwmon.git
