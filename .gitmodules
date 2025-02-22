@@ -43,3 +43,6 @@
 [submodule "luci-app-wrtbwmon"]
 	path = luci-app-wrtbwmon
 	url = https://github.com/brvphoenix/luci-app-wrtbwmon.git
+[submodule "luci-app-nginx-manager"]
+	path = luci-app-nginx-manager
+	url = https://github.com/Vera2016/luci-app-nginx-manager.git
