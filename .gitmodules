@@ -40,6 +40,3 @@
 [submodule "luci-app-nginx-manager"]
 	path = luci-app-nginx-manager
 	url = https://github.com/Vera2016/luci-app-nginx-manager.git
-[submodule "zerotier-openwrt"]
-	path = zerotier-openwrt
-	url = https://github.com/mwarning/zerotier-openwrt.git
