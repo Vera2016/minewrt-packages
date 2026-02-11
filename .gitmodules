@@ -7,15 +7,6 @@
 [submodule "luci-app-argon-config"]
 	path = luci-app-argon-config
 	url = https://github.com/jerrykuku/luci-app-argon-config.git
-[submodule "openwrt-passwall"]
-	path = openwrt-passwall
-	url = https://github.com/xiaorouji/openwrt-passwall.git
-[submodule "openwrt-passwall-packages"]
-	path = openwrt-passwall-packages
-	url = https://github.com/xiaorouji/openwrt-passwall-packages.git
-[submodule "openwrt-passwall2"]
-	path = openwrt-passwall2
-	url = https://github.com/xiaorouji/openwrt-passwall2.git
 [submodule "luci-app-mosdns"]
 	path = luci-app-mosdns
 	url = https://github.com/sbwml/luci-app-mosdns.git
