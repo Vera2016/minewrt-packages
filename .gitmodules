@@ -16,9 +16,6 @@
 [submodule "luci-app-parentcontrol"]
 	path = luci-app-parentcontrol
 	url = https://github.com/sirpdboy/luci-app-parentcontrol.git
-[submodule "netspeedtest"]
-	path = netspeedtest
-	url = https://github.com/sirpdboy/netspeedtest.git
 [submodule "luci-app-partexp"]
 	path = luci-app-partexp
 	url = https://github.com/sirpdboy/luci-app-partexp.git
