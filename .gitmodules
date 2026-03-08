@@ -28,9 +28,6 @@
 [submodule "luci-app-nginx-manager"]
 	path = luci-app-nginx-manager
 	url = https://github.com/Vera2016/luci-app-nginx-manager.git
-[submodule "luci-app-zerotier"]
-	path = luci-app-zerotier
-	url = https://github.com/rufengsuixing/luci-app-zerotier.git
 [submodule "openwrt-passwall"]
 	path = openwrt-passwall
 	url = https://github.com/Openwrt-Passwall/openwrt-passwall.git
