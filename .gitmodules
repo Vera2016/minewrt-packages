@@ -1,42 +1,72 @@
 [submodule "luci-app-wechatpush"]
 	path = luci-app-wechatpush
 	url = https://github.com/tty228/luci-app-wechatpush.git
+	branch = master
+
 [submodule "luci-theme-argon"]
 	path = luci-theme-argon
 	url = https://github.com/jerrykuku/luci-theme-argon.git
+	branch = master
+
 [submodule "luci-app-argon-config"]
 	path = luci-app-argon-config
 	url = https://github.com/jerrykuku/luci-app-argon-config.git
-[submodule "luci-app-mosdns"]
-	path = luci-app-mosdns
-	url = https://github.com/sbwml/luci-app-mosdns.git
-[submodule "luci-app-diskman"]
-	path = luci-app-diskman
-	url = https://github.com/lisaac/luci-app-diskman.git
-[submodule "luci-app-parentcontrol"]
-	path = luci-app-parentcontrol
-	url = https://github.com/sirpdboy/luci-app-parentcontrol.git
-[submodule "luci-app-partexp"]
-	path = luci-app-partexp
-	url = https://github.com/sirpdboy/luci-app-partexp.git
-[submodule "wrtbwmon"]
-	path = wrtbwmon
-	url = https://github.com/brvphoenix/wrtbwmon.git
-[submodule "luci-app-wrtbwmon"]
-	path = luci-app-wrtbwmon
-	url = https://github.com/brvphoenix/luci-app-wrtbwmon.git
-[submodule "luci-app-nginx-manager"]
-	path = luci-app-nginx-manager
-	url = https://github.com/Vera2016/luci-app-nginx-manager.git
+	branch = master
+
 [submodule "openwrt-passwall"]
 	path = openwrt-passwall
 	url = https://github.com/Openwrt-Passwall/openwrt-passwall.git
-[submodule "openwrt-passwall2"]
-	path = openwrt-passwall2
-	url = https://github.com/Openwrt-Passwall/openwrt-passwall2.git
+	branch = main
+
 [submodule "openwrt-passwall-packages"]
 	path = openwrt-passwall-packages
 	url = https://github.com/Openwrt-Passwall/openwrt-passwall-packages.git
+	branch = main
+
+[submodule "openwrt-passwall2"]
+	path = openwrt-passwall2
+	url = https://github.com/Openwrt-Passwall/openwrt-passwall2.git
+	branch = main
+
+[submodule "luci-app-smartdns"]
+	path = luci-app-smartdns
+	url = https://github.com/pymumu/luci-app-smartdns.git
+	branch = master
+
+[submodule "luci-app-mosdns"]
+	path = luci-app-mosdns
+	url = https://github.com/sbwml/luci-app-mosdns.git
+	branch = v5
+
+[submodule "luci-app-diskman"]
+	path = luci-app-diskman
+	url = https://github.com/lisaac/luci-app-diskman.git
+	branch = master
+
+[submodule "luci-app-parentcontrol"]
+	path = luci-app-parentcontrol
+	url = https://github.com/sirpdboy/luci-app-parentcontrol.git
+	branch = main
+
 [submodule "netspeedtest"]
 	path = netspeedtest
 	url = https://github.com/sirpdboy/netspeedtest.git
+	branch = main
+
+[submodule "luci-app-partexp"]
+	path = luci-app-partexp
+	url = https://github.com/sirpdboy/luci-app-partexp.git
+	branch = main
+
+[submodule "luci-app-nginx-manager"]
+	path = luci-app-nginx-manager
+	url = https://github.com/Vera2016/luci-app-nginx-manager.git
+	branch = main
+
+[submodule "wrtbwmon"]
+	path = wrtbwmon
+	url = https://github.com/brvphoenix/wrtbwmon.git
+
+[submodule "luci-app-wrtbwmon"]
+	path = luci-app-wrtbwmon
+	url = https://github.com/brvphoenix/luci-app-wrtbwmon.git
