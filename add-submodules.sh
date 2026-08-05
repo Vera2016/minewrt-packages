@@ -12,4 +12,5 @@ git submodule add -b main https://github.com/sirpdboy/netspeedtest.git netspeedt
 git submodule add -b main https://github.com/sirpdboy/luci-app-partexp.git luci-app-partexp && \
 git submodule add -b master https://github.com/brvphoenix/wrtbwmon.git wrtbwmon && \
 git submodule add -b master https://github.com/brvphoenix/luci-app-wrtbwmon.git luci-app-wrtbwmon && \
-git submodule add -b main https://github.com/Vera2016/luci-app-nginx-manager.git luci-app-nginx-manager
+git submodule add -b main https://github.com/Vera2016/luci-app-nginx-manager.git luci-app-nginx-manager && \
+git submodule add -b luci  https://github.com/chenmozhijin/turboacc.git turboacc

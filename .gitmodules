@@ -70,3 +70,7 @@
 [submodule "luci-app-wrtbwmon"]
 	path = luci-app-wrtbwmon
 	url = https://github.com/brvphoenix/luci-app-wrtbwmon.git
+[submodule "turboacc"]
+	path = turboacc
+	url = https://github.com/chenmozhijin/turboacc.git
+	branch = luci
