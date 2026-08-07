@@ -74,3 +74,7 @@
 	path = turboacc
 	url = https://github.com/chenmozhijin/turboacc.git
 	branch = luci
+[submodule "openwrt-smartdns"]
+	path = openwrt-smartdns
+	url = https://github.com/pymumu/openwrt-smartdns.git
+	branch = master
